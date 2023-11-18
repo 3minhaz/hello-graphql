@@ -18,7 +18,6 @@ export const typeDefs = `#graphqls
         products: [Product]
     }
 
-
     type Review {
         id: ID!
         review : String
